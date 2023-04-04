@@ -7,6 +7,6 @@
     <title>Github Actions</title>
 </head>
 <body>
-    <h3>Production</h3>
+    <h3>This is the staging website.</h3>
 </body>
 </html>
