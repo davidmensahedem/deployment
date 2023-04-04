@@ -7,6 +7,7 @@
     <title>Github Actions</title>
 </head>
 <body>
-    <h3>This is the staging website.</h3>
+    <h3>Welcome to Our Website</h3>
+    <p>We are the best when it comes to providing affordable network solutions.</p>
 </body>
 </html>
